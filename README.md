@@ -1,9 +1,11 @@
 # Dissertation: Gender and Climate Discourse in the European Parliament
 
 This repository contains the data and code used in my undergraduate dissertation.
+The orginal data comes from https://parllawspeech.org/data/ 
 
 ## Data
 - `analysis_data.csv`: cleaned dataset of European Parliament speeches on the European Green Deal
+- `data_set_code.R` : code used to create my data set from Parllawspeech
 
 ## Code
 - main scripts for data cleaning, dictionary construction, and analysis
