@@ -9,7 +9,7 @@ This repository contains the data and code used in my undergraduate dissertation
 - main scripts for data cleaning, dictionary construction, and analysis
 
 ## Results Figures
-- "results_section_figures.R": Code to make graphs and tables found in the dissertation
+- 'results_section_figures.R': Code to make graphs and tables found in the dissertation
 
 ## Methods
 The analysis uses dictionary-based text analysis to measure:
